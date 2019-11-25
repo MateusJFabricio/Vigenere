@@ -1,0 +1,9 @@
+C:\Users\RUGGED\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.csprojAssemblyReference.cache
+C:\Users\RUGGED\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.Properties.Resources.resources
+C:\Users\RUGGED\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.GenerateResource.cache
+C:\Users\RUGGED\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.Form1.resources
+C:\Users\RUGGED\source\repos\Vigenere\Vigenere\bin\Debug\Vigenere.exe.config
+C:\Users\RUGGED\source\repos\Vigenere\Vigenere\bin\Debug\Vigenere.exe
+C:\Users\RUGGED\source\repos\Vigenere\Vigenere\bin\Debug\Vigenere.pdb
+C:\Users\RUGGED\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.exe
+C:\Users\RUGGED\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.pdb
